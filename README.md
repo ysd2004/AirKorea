@@ -1,6 +1,8 @@
-# Welcome to GitHub
+# Si-Gun-Gu Air Pollution and Weather Data in Korea (2001 - 2018)
 
-Welcome to GitHub—where millions of developers work together on software. Ready to get started? Let’s learn how this all works by building and publishing your first GitHub Pages website!
+대한민국의 시군구별 대기오염 물질 (PM10, NO2, SO, O3, CO) 및 기상 데이터를 시군구별로 추정한 2001년 - 2018년 데이타입니다.
+
+This dataset includes the major air pollutants (PM10, NO2, SO, O3 and CO) and weather in Korea by Si-Gun-Gu-level for year 2001 - 2008.
 
 ## Repositories
 
