@@ -9,7 +9,7 @@ This dataset includes the major air pollutants (PM10, NO2, SO, O3 and CO) and we
 Seong Yun, Department of Agricultural Economics, Mississippi State University (mailto:seong.yun@msstate.edu)\
 Seung Gyu Kim, Department of Agricultural Economics, Kyungpook National University (mailto:sgkimwin@knu.ac.kr)
 
-윤성도, 농업경제학과, 미시시피주립대학교 (mailto:seong.yun@msstate.edu)\
+윤성도, 농업경제학과, 미시시피주립대학교 (seong.yun@msstate.edu)\
 김승규, 농업경제학과, 경북대학교 (mailto:sgkimwin@knu.ac.kr)
 
 ## Describe your project
