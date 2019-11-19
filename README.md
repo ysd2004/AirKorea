@@ -1,4 +1,4 @@
-# Si-Gun-Gu Air Pollutants and Weather Data in Korea (2001 - 2018)
+# Air Pollutants and Weather Data by Si-Gun-Gu in South Korea (2001 - 2018)
 
 대한민국의 시군구별 대기오염 물질 (PM10, NO2, SO, O3, CO) 및 기상 데이터를 2017년 기준 시군구별로 추정한 2001년 - 2018년 데이타입니다.
 
