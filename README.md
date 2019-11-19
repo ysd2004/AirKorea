@@ -1,4 +1,4 @@
-# Air Pollutants and Weather Data by Si-Gun-Gu\ in South Korea (2001 - 2018)
+# Air Pollutants and Weather Data by Si-Gun-Gu in South Korea (2001 - 2018)
 
 This dataset includes the major air pollutants (PM10, NO2, SO, O3 and CO) and weather by 2017 Si-Gun-Gu administrative boundaries in South Korea for year 2001 - 2008.
 
@@ -6,11 +6,11 @@ This dataset includes the major air pollutants (PM10, NO2, SO, O3 and CO) and we
 
 ## Author / Contributor / Developer / Maintainer
 
-Seong Yun, Department of Agricultural Economics, Mississippi State University (mailto:seong.yun@msstate.edu)\
-Seung Gyu Kim, Department of Agricultural Economics, Kyungpook National University (mailto:sgkimwin@knu.ac.kr)
+Seong Yun, Department of Agricultural Economics, Mississippi State University (seong.yun@msstate.edu)\
+Seung Gyu Kim, Department of Agricultural Economics, Kyungpook National University (sgkimwin@knu.ac.kr)
 
 윤성도, 농업경제학과, 미시시피주립대학교 (seong.yun@msstate.edu)\
-김승규, 농업경제학과, 경북대학교 (mailto:sgkimwin@knu.ac.kr)
+김승규, 농업경제학과, 경북대학교 (sgkimwin@knu.ac.kr)
 
 ## Describe your project
 
