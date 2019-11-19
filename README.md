@@ -1,14 +1,16 @@
 # Air Pollutants and Weather Data by Si-Gun-Gu in South Korea (2001 - 2018)
 
-대한민국의 시군구별 대기오염 물질 (PM10, NO2, SO, O3, CO) 및 기상 데이터를 2017년 기준 시군구별로 추정한 2001년 - 2018년 데이타입니다.
-
 This dataset includes the major air pollutants (PM10, NO2, SO, O3 and CO) and weather by 2017 Si-Gun-Gu administrative boundaries in South Korea for year 2001 - 2008.
 
-## Repositories
+대한민국의 시군구별 대기오염 물질 (PM10, NO2, SO, O3, CO) 및 기상 데이터를 2017년 기준 시군구별로 추정한 2001년 - 2018년 데이타입니다.
 
-Right now, we’re in your first GitHub **repository**. A repository is like a folder or storage space for your project. Your project's repository contains all its files such as code, documentation, images, and more. It also tracks every change that you—or your collaborators—make to each file, so you can always go back to previous versions of your project if you make any mistakes.
+## Author / Contributor / Developer / Maintainer
 
-This repository contains three important files: The HTML code for your first website on GitHub, the CSS stylesheet that decorates your website with colors and fonts, and the **README** file. It also contains an image folder, with one image file.
+Seong Yun, Department of Agricultural Economics, Mississippi State University (mailto:seong.yun@msstate.edu)
+Seung Gyu Kim, Department of Agricultural Economics, Kyungpook National University (mailto:sgkimwin@knu.ac.kr)
+
+윤성도, 농업경제학과, 미시시피주립대학교 (mailto:seong.yun@msstate.edu)
+김승규, 농업경제학과, 경북대학교 (mailto:sgkimwin@knu.ac.kr)
 
 ## Describe your project
 
