@@ -48,12 +48,12 @@ This dataset includes the variables below.
 
 Last access @ November 25, 2019\
 Air pollution data: Final measurment data from Air Korea (https://www.airkorea.or.kr/web/last_amb_hour_data?pMENU_NO=123) \
-Weather data: site monitoring data from KMA Open Data Portal (https://data.kma.go.kr/cmmn/main.do) \ 
+Weather data: site monitoring data from KMA Open Data Portal (https://data.kma.go.kr/cmmn/main.do)  \ 
 Si-Gun-Gu shapefiles: 2017 March version from GIS Developer (http://www.gisdeveloper.co.kr/?p=2332) 
 
 최근 접속 @ 2019년 11월 25일\
 대기 오염 데이터: 에어 코리아 최종확정 측정자료 (https://www.airkorea.or.kr/web/last_amb_hour_data?pMENU_NO=123) \
-기상 데이터: 기상청 기상자료개방포털 기상관측 자료 (https://data.kma.go.kr/cmmn/main.do)  \
+기상 데이터: 기상청 기상자료개방포털 기상관측 자료 (https://data.kma.go.kr/cmmn/main.do) \
 시군구 shapefiles: GIS Developer 2017년 3월 지도 (http://www.gisdeveloper.co.kr/?p=2332)
 
 **GitHub Pages** is a free and easy way to create a website using the code that lives in your GitHub repositories. You can use GitHub Pages to build a portfolio of your work, create a personal website, or share a fun project that you coded with the world. GitHub Pages is automatically enabled in this repository, but when you create new repositories in the future, the steps to launch a GitHub Pages website will be slightly different.
