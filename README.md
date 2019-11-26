@@ -46,12 +46,9 @@ This dataset includes the variables below.
 
 ## Raw Data Source
 
-Last access @ November 25, 2019
-
-Air pollution data: Final measurment data from Air Korea (https://www.airkorea.or.kr/web/last_amb_hour_data?pMENU_NO=123)
-
-Weather data: site monitoring data from KMA Open Data Portal (https://data.kma.go.kr/cmmn/main.do)
- 
+Last access @ November 25, 2019<br/>
+Air pollution data: Final measurment data from Air Korea (https://www.airkorea.or.kr/web/last_amb_hour_data?pMENU_NO=123)<br/>
+Weather data: site monitoring data from KMA Open Data Portal (https://data.kma.go.kr/cmmn/main.do)<br/> 
 Si-Gun-Gu shapefiles: 2017 March version from GIS Developer (http://www.gisdeveloper.co.kr/?p=2332) 
 
 최근 접속 @ 2019년 11월 25일
