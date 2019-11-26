@@ -1,4 +1,4 @@
-# Air Pollutants and Weather Data by Si-Gun-Gu in South Korea (2001 - 2018)
+# Air Pollution and Weather Data by Si-Gun-Gu in South Korea (2001 - 2018)
 
 This dataset includes the major air pollutants (PM10, NO2, SO, O3 and CO) and weather estimates by 2017 Si-Gun-Gu administrative boundaries in South Korea for year 2001 - 2008.
 
@@ -47,9 +47,9 @@ This dataset includes the variables below.
 ## Raw Data Source
 
 Last access @ November 25, 2019<br/>
-Air pollution data: Final measurment data from Air Korea (https://www.airkorea.or.kr/web)<br/>
-Weather data: site monitoring data from KMA Open Data Portal (https://data.kma.go.kr/cmmn/main.do)<br/> 
-Si-Gun-Gu shapefiles: 2017 March version from GIS Developer (http://www.gisdeveloper.co.kr/?p=2332) 
+Air pollution data: Final measurment data from **Air Korea** (https://www.airkorea.or.kr/web)<br/>
+Weather data: site monitoring data from **KMA** Open Data Portal (https://data.kma.go.kr/cmmn/main.do)<br/> 
+Si-Gun-Gu shapefiles: 2017 March version from **GIS Developer** (http://www.gisdeveloper.co.kr/?p=2332) 
 
 최근 접속 @ 2019년 11월 25일<br/>
 대기 오염 데이터: 에어 코리아 최종확정 측정자료 (https://www.airkorea.or.kr/web)<br/>
