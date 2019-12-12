@@ -62,19 +62,24 @@ Si-Gun-Gu shapefiles: 2017 March version from **GIS Developer** (http://www.gisd
 
 Using the hourly air pollution raw data, the ordinary kriging was applied for predicting hourly air pollution variables at each centroid of Si-Gun-Gu locations. The yearly variables defined in the table above were calculated from those hourly variables. Ulleung-Gun, Jeju-Si, and Seogwipo-Si adopted the average of their own monitoring sites.
 
+시간별 대기오염 원자료를 이용하여, 각 시군구의 중심점 (centroid)의 시간별 데이타를 Ordinary Kriging 방법으로 추정하였습니다. 위 표에 정의된 연별 자료는 각 변수의 정의에 따라 시간별 추정치를 이용하여 계산하였습니다. 울릉군, 제주시, 서귀포시의 데이타는 해당 지역의 측정소 자료를 평균치 입니다.
+
 **Weather Data**
 
 Using the daily weather raw data, the nearest weather monitoring station data to the centroid was assigned to each Si-Gun-Gu. If the data is missing in the nearest station, the next closest monitoring data was selected. The yearly variables defined in the table above were calculated from those daily variables. Ulleung-Gun adopted its own station data only. 
 
-**대기오염 데이타**
-
-시간별 대기오염 원자료를 이용하여, 각 시군구의 중심점 (centroid)의 시간별 데이타를 Ordinary Kriging 방법으로 추정하였습니다. 위 표에 정의된 연별 자료는 각 변수의 정의에 따라 시간별 추정치를 이용하여 계산하였습니다. 울릉군, 제주시, 서귀포시의 데이타는 해당 지역의 측정소 자료를 평균치 입니다.
-
-**기상 자료**
-
 일별 날씨 원자료를 이용하여, 각 시군구의 중심점 (centroid)에서 가장 가까운 측정소의 값을 사용하였습니다. 가장 가까운 측정값이 없는 경우에는 그 다음 가까운 측정소의 값을 사용하였습니다. 위 표에 정의된 연별 자료는 일별 자료를 이용하여 정의에 따라 계산되었습니다. 울릉군은 해당 지역의 측정소 자료 사용하였습니다.
 
-Let's get started! To update this repository’s name, click the `Settings` tab on this page. This will take you to your repository’s settings page. 
+**Warning and Note**
+
+The estimation methods adopted in here is one of the simplest approaches. The authors are NOT specialties in atmospheric sciences or relevant data sciences. This data could include unintended errors and unexpected outliers. Please consult with an experties if your usages require higher-level accuracy. Authors do NOT take any responsibilities for users' usages of this data.
+
+이 자료에 사용된 추정방법은 해당 분야에서 가장 간단한 방법입니다. 이 자료의 저자들은 대기과학이나 관련 데이타 사이언스의 전문가들이 아닙니다. 본 자료는 의도하지 않은 오류나 예상치 못한 이상치를 가질 수 있습니다. 높은 수준의 정확도를 필요로 하는 경우에는 해당분야의 전문가와 상의하십시오. 이 자료의 저자들은 자료 사용자들의 자료 이용에 대한 어떠한 책임도 지지 않습니다.
+
+The estimated hourly air pollution and daily weather data are available upon requests under the authors' permission.
+
+저자들의 사용허가를 전제로, 시간별 대기오염 또는 일간 기상 데이타 추정치는 요청에 의해 사용 가능합니다. 
+
 
 ![repo-settings-image](https://user-images.githubusercontent.com/18093541/63130482-99e6ad80-bf88-11e9-99a1-d3cf1660b47e.png)
 
