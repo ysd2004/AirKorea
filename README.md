@@ -56,13 +56,19 @@ Si-Gun-Gu shapefiles: 2017 March version from **GIS Developer** (http://www.gisd
 기상 데이터: 기상청 기상자료개방포털 기상관측 자료 (https://data.kma.go.kr/cmmn/main.do)<br/>
 시군구 shapefiles: GIS Developer 2017년 3월 지도 (http://www.gisdeveloper.co.kr/?p=2332)
 
-**GitHub Pages** is a free and easy way to create a website using the code that lives in your GitHub repositories. You can use GitHub Pages to build a portfolio of your work, create a personal website, or share a fun project that you coded with the world. GitHub Pages is automatically enabled in this repository, but when you create new repositories in the future, the steps to launch a GitHub Pages website will be slightly different.
+## Data Processing
 
-[Learn more about GitHub Pages](https://pages.github.com/)
+**Air Pollution Data**<\br>
+Using the hourly air pollution raw data, the ordinary kriging was applied for predicting hourly air pollution variables at each centroid of Si-Gun-Gu locations. The yearly variables defined in the table above were calculated from those hourly variables. Ulleung-Gun, Jeju-Si, and Seogwipo-Si adopted the average of their own monitoring sites.
 
-## Rename this repository to publish your site
+**Weather Data**<\br>
+Using the daily weather raw data, the nearest weather monitoring station data to the centroid was assigned to each Si-Gun-Gu. If the data is missing in the nearest station, the next closest monitoring data was selected. The yearly variables defined in the table above were calculated from those daily variables. Ulleung-Gun adopted its own station data only. 
 
-We've already set-up a GitHub Pages website for you, based on your personal username. This repository is called `hello-world`, but you'll rename it to: `username.github.io`, to match your website's URL address. If the first part of the repository doesn’t exactly match your username, it won’t work, so make sure to get it right.
+**대기오염 데이타**<\br>
+시간별 대기오염 원자료를 이용하여, 각 시군구의 중심점 (centroid)의 시간별 데이타를 Ordinary Kriging 방법으로 추정하였습니다. 위 표에 정의된 연별 자료는 각 변수의 정의에 따라 시간별 추정치를 이용하여 계산하였습니다. 울릉군, 제주시, 서귀포시의 데이타는 해당 지역의 측정소 자료를 평균치 입니다.
+
+**기상 자료**<\br>
+일별 날씨 원자료를 이용하여, 각 시군구의 중심점 (centroid)에서 가장 가까운 측정소의 값을 사용하였습니다. 가장 가까운 측정값이 없는 경우에는 그 다음 가까운 측정소의 값을 사용하였습니다. 위 표에 정의된 연별 자료는 일별 자료를 이용하여 정의에 따라 계산되었습니다. 울릉군은 해당 지역의 측정소 자료을 사용하였습니다.
 
 Let's get started! To update this repository’s name, click the `Settings` tab on this page. This will take you to your repository’s settings page. 
 
