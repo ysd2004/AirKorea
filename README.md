@@ -1,4 +1,4 @@
-# Daily Air Pollution and Weather Data by Si-Gun-Gu in South Korea (2001 - 2018)
+# Air Pollution and Weather Data by Si-Gun-Gu in South Korea (2001 - 2018)
 
 This dataset includes the major air pollutants (PM10, NO2, SO, O3 and CO) and weather estimates by 2017 Si-Gun-Gu administrative boundaries in South Korea for year 2001 - 2008.
 
