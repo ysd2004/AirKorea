@@ -74,7 +74,7 @@ Using the daily weather raw data, the nearest weather monitoring station data to
 
 The estimation methods adopted in this data is one of the simplest approaches. The authors are NOT specialties in atmospheric sciences or relevant data sciences. This data could include unintended errors and unexpected outliers. Please consult with an experties if your usages require higher-level accuracy. Authors do NOT take any responsibilities for users' usages of this data.
 
-이 자료에 사용된 추정방법은 해당 분야에서 가장 간단한 방법입니다. 이 자료의 저자들은 대기과학이나 관련 데이타 사이언스의 전문가들이 아닙니다. 본 자료는 의도하지 않은 오류나 예상치 못한 이상치를 가질 수 있습니다. 높은 수준의 정확도를 필요로 하는 경우에는 해당분야의 전문가와 상의하십시오. 이 자료의 저자들은 자료 사용자들의 자료 이용에 대한 어떠한 책임도 지지 않습니다.
+이 자료의 추정방법은 해당 분야에서 사용되는 방법 중에서 가장 간단한 방법입니다. 이 자료의 저자들은 대기과학이나 관련 데이타 사이언스의 전문가들이 아닙니다. 본 자료는 의도하지 않은 오류나 예상치 못한 이상치를 가질 수 있습니다. 높은 수준의 정확도를 필요로 하는 경우에는 해당분야의 전문가와 상의하십시오. 이 자료의 저자들은 자료 사용자들의 자료 이용에 대한 어떠한 책임도 지지 않습니다.
 
 The estimated hourly air pollution and daily weather data are available upon requests under the authors' permission.
 
