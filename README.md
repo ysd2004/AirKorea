@@ -14,7 +14,7 @@ Seung Gyu Kim, Department of Agricultural Economics, Kyungpook National Universi
 
 ## Data Download
 
-Download: https://github.com/ysd2004/AirKorea/blob/master/data/pandw_v1000.csv/download
+Download version 1.0.0.0 data: find /data/pandw_v1000.csv.
 
 ## Variables
 
