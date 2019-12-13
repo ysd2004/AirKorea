@@ -84,6 +84,7 @@ The estimated hourly air pollution and daily weather data are available upon req
 
 저자들의 사용허가를 전제로, 시간별 대기오염 또는 일간 기상 데이타 추정치는 요청에 의해 사용 가능합니다. 
 
+## Example Data Images
 
 ![repo-settings-image](https://user-images.githubusercontent.com/18093541/63130482-99e6ad80-bf88-11e9-99a1-d3cf1660b47e.png)
 
@@ -94,9 +95,6 @@ Under the **Repository Name** heading, type: `username.github.io`, where usernam
 Once you click **Rename**, your website will automatically be published at: https://your-username.github.io/. The HTML file—called `index.html`—is rendered as the home page and you'll be making changes to this file in the next step.
 
 Congratulations! You just launched your first GitHub Pages website. It's now live to share with the entire world
-
-## Example Data Images
-
 Want to edit the site you just published? Let’s practice commits by introducing yourself in your `index.html` file. Don’t worry about getting it right the first time—you can always build on your introduction later.
 
 Let’s start with this template:
@@ -108,14 +106,3 @@ Let’s start with this template:
 To add your introduction, copy our template and click the edit pencil icon at the top right hand corner of the `index.html` file.
 
 <img width="997" alt="edit-this-file" src="https://user-images.githubusercontent.com/18093541/63131820-0794d880-bf8d-11e9-8b3d-c096355e9389.png">
-
-
-Delete this placeholder line:
-
-```
-<p>Welcome to your first GitHub Pages website!</p>
-```
-
-Then, paste the template to line 15 and fill in the blanks.
-
-<img width="1032" alt="edit-githuboctocat-index" src="https://user-images.githubusercontent.com/18093541/63132339-c3a2d300-bf8e-11e9-8222-59c2702f6c42.png">
