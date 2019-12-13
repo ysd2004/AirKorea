@@ -12,6 +12,10 @@ Seung Gyu Kim, Department of Agricultural Economics, Kyungpook National Universi
 윤성도, 농업경제학과, 미시시피주립대학교 (seong.yun@msstate.edu)\
 김승규, 농업경제학과, 경북대학교 (sgkimwin@knu.ac.kr)
 
+## Data Download
+
+Download: 
+
 ## Variables
 
 This dataset includes the variables below.
