@@ -74,7 +74,7 @@ Using the daily weather raw data, the nearest weather monitoring station data to
 
 일별 날씨 원자료를 이용하여, 각 시군구의 중심점 (centroid)에서 가장 가까운 측정소의 값을 사용하였습니다. 가장 가까운 측정값이 없는 경우에는 그 다음 가까운 측정소의 값을 사용하였습니다. 위 표에 정의된 연별 자료는 일별 자료를 이용하여 정의에 따라 계산되었습니다. 울릉군은 해당 지역의 측정소 자료 사용하였습니다.
 
-**Warning and Note**
+## Warning and Note
 
 The estimation methods adopted in this data is one of the simplest approaches. The authors are NOT specialties in atmospheric sciences or relevant data sciences. This data could include unintended errors and unexpected outliers. Please consult with an experties if your usages require higher-level accuracy. Authors do NOT take any responsibilities for users' usages of this data.
 
