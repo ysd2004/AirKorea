@@ -88,7 +88,7 @@ The estimated hourly air pollution and daily weather data are available upon req
 
 ![repo-settings-image](https://user-images.githubusercontent.com/18093541/63130482-99e6ad80-bf88-11e9-99a1-d3cf1660b47e.png)
 
-![alt text](https://raw.githubusercontent.com/ysd2004/AirKorea/data/path/to/PM10avg.png)
+![alt text](https://raw.githubusercontent.com/ysd2004/AirKorea/master/images/to/PM10avg.png)
 
 Under the **Repository Name** heading, type: `username.github.io`, where username is your username on GitHub. Then click **Rename**—and that’s it. When you’re done, click your repository name or browser’s back button to return to this page.
 
