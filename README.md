@@ -107,5 +107,5 @@ Let’s start with this template:
 
 To add your introduction, copy our template and click the edit pencil icon at the top right hand corner of the `index.html` file.
 
-<img width="450" alt="PM10avg" src="https://github.com/ysd2004/AirKorea/blob/master/images/PM10avg.png">
-<img width="450" alt="tavg" src="https://github.com/ysd2004/AirKorea/blob/master/images/tavg.png">
+<img width="400" alt="PM10avg" src="https://github.com/ysd2004/AirKorea/blob/master/images/PM10avg.png">
+<img width="400" alt="tavg" src="https://github.com/ysd2004/AirKorea/blob/master/images/tavg.png">
