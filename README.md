@@ -88,7 +88,7 @@ The estimated hourly air pollution and daily weather data are available upon req
 
 ![repo-settings-image](https://user-images.githubusercontent.com/18093541/63130482-99e6ad80-bf88-11e9-99a1-d3cf1660b47e.png)
 
-![alt text](https://raw.githubusercontent.com/ysd2004/AirKorea/master/images/to/PM10avg.png)
+![PM10avg](https://github.com/ysd2004/AirKorea/blob/master/images/PM10avg.png)
 
 Under the **Repository Name** heading, type: `username.github.io`, where username is your username on GitHub. Then click **Rename**—and that’s it. When you’re done, click your repository name or browser’s back button to return to this page.
 
@@ -107,4 +107,4 @@ Let’s start with this template:
 
 To add your introduction, copy our template and click the edit pencil icon at the top right hand corner of the `index.html` file.
 
-<img width="997" alt="edit-this-file" src="https://user-images.githubusercontent.com/18093541/63131820-0794d880-bf8d-11e9-8b3d-c096355e9389.png">
+<img width="997" alt="PM10avg" src="https://github.com/ysd2004/AirKorea/blob/master/images/PM10avg.png">
