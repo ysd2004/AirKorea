@@ -16,6 +16,10 @@ Seung Gyu Kim, Department of Agricultural Economics, Kyungpook National Universi
 
 Download version 1.0.0.0 data: [DOWNLOAD](https://github.com/ysd2004/AirKorea/raw/master/data/pandw_v1000.csv)
 
+Save the link with "txt" file and read it as "csv".
+
+링크의 데이터를 txt 파일로 저장 후 csv로 읽으면 됩니다.
+
 ## Variables
 
 This dataset includes the variables below.
