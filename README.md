@@ -98,5 +98,5 @@ The estimated hourly air pollution and daily weather data are available upon req
 
 
 ## News
-12/5/2020: v.1.0.0 released (2001 - 2018) <br/>
-12/1/2022: Dr. Yunsun Park join the authorship
+12/5/2020: v.1.0.0 released (2001 - 2018)
+12/5/2020: v.1.0.0 released
