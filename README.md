@@ -13,7 +13,7 @@ Yunsun Park, Department of Agricultural Economics, Mississippi State University 
 Seung Gyu Kim, Department of Agricultural Economics, Kyungpook National University (sgkimwin@knu.ac.kr)
 
 윤성도, 농업경제학과, 미시시피주립대학교 (seong.yun@msstate.edu)\
-박윤서, 농업경제학과, 미시시피주립대학교 (yp187@msstate.edu)\
+박윤선, 농업경제학과, 미시시피주립대학교 (yp187@msstate.edu)\
 김승규, 농업경제학과, 경북대학교 (sgkimwin@knu.ac.kr)
 
 ## Data Download
