@@ -2,16 +2,18 @@
 
 [![DOI](https://zenodo.org/badge/222725843.svg)](https://zenodo.org/badge/latestdoi/222725843)
 
-This dataset includes the major air pollutants (PM10, NO2, SO, O3 and CO) and weather estimates by 2017 Si-Gun-Gu administrative boundaries in South Korea for year 2001 - 2008.
+This dataset includes the major air pollutants (PM10, NO2, SO, O3 and CO) and weather estimates by 2017 Si-Gun-Gu administrative boundaries in South Korea for year 2001 - 2018.
 
 대한민국의 시군구별 대기오염 물질 (PM10, NO2, SO, O3, CO) 및 기상 데이터를 2017년 기준 시군구별로 추정한 2001년 - 2018년 데이타입니다.
 
 ## Author / Contributor / Developer / Maintainer
 
 Seong Yun, Department of Agricultural Economics, Mississippi State University (seong.yun@msstate.edu)\
+Yunsun Park, Department of Agricultural Economics, Mississippi State University (yp187@msstate.edu)
 Seung Gyu Kim, Department of Agricultural Economics, Kyungpook National University (sgkimwin@knu.ac.kr)
 
 윤성도, 농업경제학과, 미시시피주립대학교 (seong.yun@msstate.edu)\
+박윤서, 농업경제학과, 미시시피주립대학교 (yp187@msstate.edu)\
 김승규, 농업경제학과, 경북대학교 (sgkimwin@knu.ac.kr)
 
 ## Data Download
