@@ -95,3 +95,8 @@ The estimated hourly air pollution and daily weather data are available upon req
 <img width="420" alt="PM10avg" src="https://github.com/ysd2004/AirKorea/blob/master/images/PM10avg.png"> <img width="420" alt="tavg" src="https://github.com/ysd2004/AirKorea/blob/master/images/tavg.png">
 
 <img width="420" alt="APmonitering" src="https://github.com/ysd2004/AirKorea/blob/master/images/APmonitering.png"> <img width="420" alt="weatherstations" src="https://github.com/ysd2004/AirKorea/blob/master/images/weatherstations.png">
+
+
+## News
+12/5/2020: v.1.0.0 released (2001 - 2018) <br/>
+12/1/2022: Dr. Yunsun Park join the authorship
