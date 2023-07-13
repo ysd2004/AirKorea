@@ -40,7 +40,7 @@ This dataset includes the variables below.
 | 8  | SO2avg     | 연평균 아황산가스 (SO2) 농도 (ppm)                           | Yearly SO2 average (ppm)                                                                         |
 | 9  | PM10freq   | 한국기준 PM10 >  80 (나쁨, 매우나쁨)인   날수                | Day counts of PM10 > 80 (unhealthy and very unhealthy in the Korean   Standard)                  |
 | 10 | PM10freqUS | 미국기준 PM10 >  154 (민감군 나쁨, 나쁨,   매우나쁨)인 날수  | Day counts of PM10 > 154 (S-groups unhealthy, unhealthy and very   unhealthy in the US Standard) |
-| 11 | PM10xtrm   | 한국기준 PM10 >  150 (매우나쁨)인 날수                       | Day counts of PM10 > 150 (very unhealthy in Korean the Standard)                                 |
+| 11 | PM10xtrm   | 한국기준 PM10 >  150 (매우나쁨)인 날수                       | Day counts of PM10 > 150 (very unhealthy in the Korean Standard)                                 |
 | 12 | PM10xtrmUS | 미국기준 PM10 >  354 (매우나쁨)인 날수                       | Day counts of PM10 > 354 (very unhealthy in the US Standard)                                     |
 | 13 | PM10hrs    | 한국기준 PM10 > 80  (매우 나쁨) 노출시간                     | Length of hours with PM10 > 80 ( very unhealthy in the Korean   Standard)                        |
 | 14 | avghrs     | 한국기준 PM10 > 80  (매우 나쁨) 일간 평균   노출시간         | Daily average exposure hours with PM10 > 80 ( very unhealthy in the   Korean Standard)           |
@@ -98,5 +98,5 @@ The estimated hourly air pollution and daily weather data are available upon req
 
 
 ## News
-12/5/2020: v.1.0.0 released (2001 - 2018)
-12/5/2020: v.1.0.0 released
+12/5/2020: v.1.0.0 released (2001 - 2018) <br/>
+12/1/2022: Dr. Yunsun Park joined the authorship
