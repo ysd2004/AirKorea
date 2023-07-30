@@ -45,7 +45,7 @@ This dataset includes the variables below.
 이 데이타셋은 아래의 변수들을 포함하고 있습니다.
 
 | No. | Variable  | Description (KOR)                                            | Description (ENG)                                                                                |
-|:----:|:------------:|----------------------------------------------------------|----------------------------------------------------------------------------------------------|
+|:----:|:------------:|----------------------------------------------------------|--------------------------------------------------------------------------------------------------|
 | 1  | SIG_CD     | 시군구코드                                                   | Si-Gun-Gu Code                                                                                   |
 | 2  | SIG_ENG    | 영문 시군구명                                                | Si-Gun-Gu Name                                                                                   |
 | 3  | year       | 연도                                                         | year                                                                                             |
@@ -55,12 +55,12 @@ This dataset includes the variables below.
 | 7  | PM10avg    | 연평균 PM10 농도 (ug/m3)                                     | Yearly PM10 average (ug/m3)                                                                      |
 | 8  | SO2avg     | 연평균 아황산가스 (SO2) 농도 (ppm)                           | Yearly SO2 average (ppm)                                                                         |
 | 9  | PM25avg    | 연평균 PM2.5 농도 (ug/m3)                                    | Yearly PM2.5 average (ug/m3)                                                                     |
-| 10 | PM10freq   | 한국기준 PM10 >  80 (나쁨, 매우나쁨)인   날수                | Day counts of PM10 > 80 (unhealthy and very unhealthy in the Korean   Standard)                  |
-| 11 | PM10freqUS | 미국기준 PM10 >  154 (민감군 나쁨, 나쁨,   매우나쁨)인 날수  | Day counts of PM10 > 154 (S-groups unhealthy, unhealthy and very   unhealthy in the US Standard) |
+| 10 | PM10freq   | 한국기준 PM10 >  80 (나쁨, 매우나쁨)인 날수                  | Day counts of PM10 > 80 (unhealthy and very unhealthy in the Korean Standard)                    |
+| 11 | PM10freqUS | 미국기준 PM10 >  154 (민감군 나쁨, 나쁨, 매우나쁨)인 날수    | Day counts of PM10 > 154 (S-groups unhealthy, unhealthy and very unhealthy in the US Standard)   |
 | 12 | PM10xtrm   | 한국기준 PM10 >  150 (매우나쁨)인 날수                       | Day counts of PM10 > 150 (very unhealthy in the Korean Standard)                                 |
 | 13 | PM10xtrmUS | 미국기준 PM10 >  354 (매우나쁨)인 날수                       | Day counts of PM10 > 354 (very unhealthy in the US Standard)                                     |
-| 14 | PM10hrs    | 한국기준 PM10 > 80  (매우 나쁨) 노출시간                     | Length of hours with PM10 > 80 ( very unhealthy in the Korean   Standard)                        |
-| 15 | avghrs     | 한국기준 PM10 > 80  (매우 나쁨) 일간 평균   노출시간         | Daily average exposure hours with PM10 > 80 ( very unhealthy in the   Korean Standard)           |
+| 14 | PM10hrs    | 한국기준 PM10 > 80 (매우 나쁨) 노출시간                      | Length of hours with PM10 > 80 ( very unhealthy in the Korean Standard)                          |
+| 15 | avghrs     | 한국기준 PM10 > 80 (매우 나쁨) 일간 평균 노출시간            | Daily average exposure hours with PM10 > 80 ( very unhealthy in the Korean Standard)             |
 | 16 | tavg       | 연평균기온 (deg C)                                           | Yearly average temperature (deg C)                                                               |
 | 17 | tmin       | 연평균 최저기온 (deg C)                                      | Yearly average minimum temperature (deg C)                                                       |
 | 18 | tmax       | 연평균 최고기온 (deg C)                                      | Yearly average maximum temperature (deg C)                                                       |
