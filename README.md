@@ -2,9 +2,9 @@
 
 [![DOI](https://zenodo.org/badge/222725843.svg)](https://zenodo.org/badge/latestdoi/222725843)
 
-This dataset includes the major air pollutants (PM10, NO2, SO, O3 and CO) and weather estimates by 2017 Si-Gun-Gu administrative boundaries in South Korea for year 2001 - 2018.
+This dataset includes the major air pollutants (PM10, NO2, SO, O3 and CO) and weather estimates by 2017 Si-Gun-Gu administrative boundaries in South Korea for year 2001 - 2021.
 
-대한민국의 시군구별 대기오염 물질 (PM10, NO2, SO, O3, CO) 및 기상 데이터를 2017년 기준 시군구별로 추정한 2001년 - 2018년 데이타입니다.
+대한민국의 시군구별 대기오염 물질 (PM10, NO2, SO, O3, CO) 및 기상 데이터를 2017년 기준 시군구별로 추정한 2001년 - 2021년 데이타입니다.
 
 ## Author / Contributor / Developer / Maintainer
 
@@ -42,23 +42,23 @@ This dataset includes the variables below.
 | 1  | SIG_CD     | 시군구코드                                                   | Si-Gun-Gu Code                                                                                   |
 | 2  | SIG_ENG    | 영문 시군구명                                                | Si-Gun-Gu Name                                                                                   |
 | 3  | year       | 연도                                                         | year                                                                                             |
-| 4  |  COavg     | 연평균 일산화탄소 (CO) 농도 (ppm)                            | Yearly CO average (ppm)                                                                          |
+| 4  | COavg      | 연평균 일산화탄소 (CO) 농도 (ppm)                            | Yearly CO average (ppm)                                                                          |
 | 5  | NO2avg     | 연평균 이산화질소( NO2) 농도 (ppm)                           | Yearly NO2 average (ppm)                                                                         |
 | 6  | O3avg      | 연평균 오존 (O3) 농도 (ppm)                                  | Yearly O2 average (ppm)                                                                          |
-| 7  | PM10avg    | 연평균  PM10 농도 (ug/m3)                                    | Yearly PM10 average (ug/m3)                                                                      |
+| 7  | PM10avg    | 연평균 PM10 농도 (ug/m3)                                     | Yearly PM10 average (ug/m3)                                                                      |
 | 8  | SO2avg     | 연평균 아황산가스 (SO2) 농도 (ppm)                           | Yearly SO2 average (ppm)                                                                         |
-| 9  | PM10freq   | 한국기준 PM10 >  80 (나쁨, 매우나쁨)인   날수                | Day counts of PM10 > 80 (unhealthy and very unhealthy in the Korean   Standard)                  |
-| 10 | PM10freqUS | 미국기준 PM10 >  154 (민감군 나쁨, 나쁨,   매우나쁨)인 날수  | Day counts of PM10 > 154 (S-groups unhealthy, unhealthy and very   unhealthy in the US Standard) |
-| 11 | PM10xtrm   | 한국기준 PM10 >  150 (매우나쁨)인 날수                       | Day counts of PM10 > 150 (very unhealthy in the Korean Standard)                                 |
-| 12 | PM10xtrmUS | 미국기준 PM10 >  354 (매우나쁨)인 날수                       | Day counts of PM10 > 354 (very unhealthy in the US Standard)                                     |
-| 13 | PM10hrs    | 한국기준 PM10 > 80  (매우 나쁨) 노출시간                     | Length of hours with PM10 > 80 ( very unhealthy in the Korean   Standard)                        |
-| 14 | avghrs     | 한국기준 PM10 > 80  (매우 나쁨) 일간 평균   노출시간         | Daily average exposure hours with PM10 > 80 ( very unhealthy in the   Korean Standard)           |
-| 15 | tavg       | 연평균기온 (deg C)                                           | Yearly average temperature (deg C)                                                               |
-| 16 | tmin       | 연평균 최저기온 (deg C)                                      | Yearly average minimum temperature (deg C)                                                       |
-| 17 | tmax       | 연평균 최고기온 (deg C)                                      | Yearly average maximum temperature (deg C)                                                       |
-| 18 | ppt        | 연강수량 (mm)                                                | Yearly total precipitation (mm)                                                                  |
-| 19 | wmax       | 연평균 최대풍속 (m/s)                                        | Yearly average of the maximim wind speeds (m/s)                                                  |
-| 20 | wmaxd      | 연평균 최대풍속 방향 (degree)                                | Yearly average of the maximim wind speed direction (degree)                                      |
+| 9  | PM25avg    | 연평균 PM2.5 농도 (ug/m3)                                    | Yearly PM2.5 average (ug/m3)                                                                      |
+| 10  | PM10freq   | 한국기준 PM10 >  80 (나쁨, 매우나쁨)인   날수               | Day counts of PM10 > 80 (unhealthy and very unhealthy in the Korean   Standard)                  |
+| 11 | PM10freqUS | 미국기준 PM10 >  154 (민감군 나쁨, 나쁨,   매우나쁨)인 날수  | Day counts of PM10 > 154 (S-groups unhealthy, unhealthy and very   unhealthy in the US Standard) |
+| 12 | PM10xtrm   | 한국기준 PM10 >  150 (매우나쁨)인 날수                       | Day counts of PM10 > 150 (very unhealthy in the Korean Standard)                                 |
+| 13 | PM10xtrmUS | 미국기준 PM10 >  354 (매우나쁨)인 날수                       | Day counts of PM10 > 354 (very unhealthy in the US Standard)                                     |
+| 14 | PM10hrs    | 한국기준 PM10 > 80  (매우 나쁨) 노출시간                     | Length of hours with PM10 > 80 ( very unhealthy in the Korean   Standard)                        |
+| 15 | avghrs     | 한국기준 PM10 > 80  (매우 나쁨) 일간 평균   노출시간         | Daily average exposure hours with PM10 > 80 ( very unhealthy in the   Korean Standard)           |
+| 16 | tavg       | 연평균기온 (deg C)                                           | Yearly average temperature (deg C)                                                               |
+| 17 | tmin       | 연평균 최저기온 (deg C)                                      | Yearly average minimum temperature (deg C)                                                       |
+| 18 | tmax       | 연평균 최고기온 (deg C)                                      | Yearly average maximum temperature (deg C)                                                       |
+| 19 | ppt        | 연강수량 (mm)                                                | Yearly total precipitation (mm)                                                                  |
+| 20 | wmax       | 연평균 최대풍속 (m/s)                                        | Yearly average of the maximim wind speeds (m/s)                                                  |
 | 21 | wavg       | 연평균 풍속 (m/s)                                            | Yearly average of the mean wind speed (m/s)                                                      |
 | 22 | huminavg   | 연평균 상대습도 (%)                                          | Yearly average of the relative humidity (%)                                                      |
 | 23 | sunsum     | 연간 일조시간 (hrs)                                          | Yearly total shunshine hours (hrs)                                                               |
@@ -89,6 +89,10 @@ Using the daily weather raw data, the nearest weather monitoring station data to
 
 일별 날씨 원자료를 이용하여, 각 시군구의 중심점 (centroid)에서 가장 가까운 측정소의 값을 사용하였습니다. 가장 가까운 측정값이 없는 경우에는 그 다음 가까운 측정소의 값을 사용하였습니다. 위 표에 정의된 연별 자료는 일별 자료를 이용하여 정의에 따라 계산되었습니다. 울릉군은 해당 지역의 측정소 자료 사용하였습니다.
 
+## Old Versions
+
+V.1.0.0 (released Feb. 23.2020): 2001 - 2018 is available upon requets.
+
 ## Warning and Note
 
 The estimation methods adopted in this data is one of the simplest approaches. The authors are NOT specialties in atmospheric sciences or relevant data sciences. This data could include unintended errors and unexpected outliers. Please consult with an experties if your usages require higher-level accuracy. Authors do NOT take any responsibilities for users' usages of this data.
@@ -108,4 +112,6 @@ The estimated hourly air pollution and daily weather data are available upon req
 
 ## News
 12/5/2020: v.1.0.0 released (2001 - 2018) <br/>
-12/1/2022: Dr. Yunsun Park joined the authorship
+12/1/2022: Dr. Yunsun Park joined the authorship <br/>
+7/11/2023: v.2.0.0 beta version under testing <br/>
+7/30/2023: V.2.0.0 released: added recent years (2001 - 2021), yearly average of PM 2.5, and dropped yearly average of the maximum wind speed direction (wmaxd)
