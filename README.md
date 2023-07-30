@@ -2,9 +2,9 @@
 
 [![DOI](https://zenodo.org/badge/222725843.svg)](https://zenodo.org/badge/latestdoi/222725843)
 
-This dataset includes the major air pollutants (PM10, NO2, SO, O3 and CO) and weather estimates by 2017 Si-Gun-Gu administrative boundaries in South Korea for year 2001 - 2021.
+This dataset includes the major air pollutants (PM10, PM2.5, NO2, SO, O3 and CO) and weather estimates by 2017 Si-Gun-Gu administrative boundaries in South Korea for year 2001 - 2021.
 
-대한민국의 시군구별 대기오염 물질 (PM10, NO2, SO, O3, CO) 및 기상 데이터를 2017년 기준 시군구별로 추정한 2001년 - 2021년 데이타입니다.
+대한민국의 시군구별 대기오염 물질 (PM10, PM2.5, NO2, SO, O3, CO) 및 기상 데이터를 2017년 기준 시군구별로 추정한 2001년 - 2021년 데이타입니다.
 
 ## Author / Contributor / Developer / Maintainer
 
@@ -72,12 +72,12 @@ This dataset includes the variables below.
 
 ## Raw Data Source
 
-Last access @ November 25, 2019<br/>
+Last access @ July 21, 2023<br/>
 Air pollution data: Final measurment data from **Air Korea** (https://www.airkorea.or.kr/web)<br/>
 Weather data: site monitoring data from **KMA** Open Data Portal (https://data.kma.go.kr/cmmn/main.do)<br/> 
 Si-Gun-Gu shapefiles: 2017 March version from **GIS Developer** (http://www.gisdeveloper.co.kr/?p=2332) 
 
-최근 접속 @ 2019년 11월 25일<br/>
+최근 접속 @ 2023년 7월 21일<br/>
 대기 오염 데이터: 에어 코리아 최종확정 측정자료 (https://www.airkorea.or.kr/web)<br/>
 기상 데이터: 기상청 기상자료개방포털 기상관측 자료 (https://data.kma.go.kr/cmmn/main.do)<br/>
 시군구 shapefiles: GIS Developer 2017년 3월 지도 (http://www.gisdeveloper.co.kr/?p=2332)
