@@ -54,8 +54,8 @@ This dataset includes the variables below.
 | 6  | O3avg      | 연평균 오존 (O3) 농도 (ppm)                                  | Yearly O2 average (ppm)                                                                          |
 | 7  | PM10avg    | 연평균 PM10 농도 (ug/m3)                                     | Yearly PM10 average (ug/m3)                                                                      |
 | 8  | SO2avg     | 연평균 아황산가스 (SO2) 농도 (ppm)                           | Yearly SO2 average (ppm)                                                                         |
-| 9  | PM25avg    | 연평균 PM2.5 농도 (ug/m3)                                    | Yearly PM2.5 average (ug/m3)                                                                      |
-| 10  | PM10freq   | 한국기준 PM10 >  80 (나쁨, 매우나쁨)인   날수               | Day counts of PM10 > 80 (unhealthy and very unhealthy in the Korean   Standard)                  |
+| 9  | PM25avg    | 연평균 PM2.5 농도 (ug/m3)                                    | Yearly PM2.5 average (ug/m3)                                                                     |
+| 10 | PM10freq   | 한국기준 PM10 >  80 (나쁨, 매우나쁨)인   날수                | Day counts of PM10 > 80 (unhealthy and very unhealthy in the Korean   Standard)                  |
 | 11 | PM10freqUS | 미국기준 PM10 >  154 (민감군 나쁨, 나쁨,   매우나쁨)인 날수  | Day counts of PM10 > 154 (S-groups unhealthy, unhealthy and very   unhealthy in the US Standard) |
 | 12 | PM10xtrm   | 한국기준 PM10 >  150 (매우나쁨)인 날수                       | Day counts of PM10 > 150 (very unhealthy in the Korean Standard)                                 |
 | 13 | PM10xtrmUS | 미국기준 PM10 >  354 (매우나쁨)인 날수                       | Day counts of PM10 > 354 (very unhealthy in the US Standard)                                     |
