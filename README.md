@@ -19,15 +19,22 @@ Seung Gyu Kim, Department of Agricultural Economics, Kyungpook National Universi
 ## Citation
 
 ```r
-To cite this data in publications use:
+To cite this data in publications:
 
   Yun, S.D., Y.S. Park, and S.G. Kim (2023). Air Pollution and Weather Data by Si-Gun-Gu in South
   Korea (2001 - 2021). Version 2.0.0. https://github.com/ysd2004/AirKorea
 ```
 
+```r
+To cite the method used in this data:
+
+  Yun, S.D.and S.G. Kim (2020). Air Pollution and Weather Data by Si-Gun-Gu in South
+  Korea. Korean Journal of Agricultural and Forest Meteorology. 22(3): pp. 171 - 175.
+``
+
 ## Data Download
 
-Download version 1.0.0.0 data: [DOWNLOAD](https://github.com/ysd2004/AirKorea/raw/master/data/pandw_v1000.csv)
+Download version 2.0.0.0 data: [DOWNLOAD](https://github.com/ysd2004/AirKorea/raw/master/data/pandw_v2000.csv)
 
 Or download all files from [![DOI](https://zenodo.org/badge/222725843.svg)](https://zenodo.org/badge/latestdoi/222725843).
 
@@ -88,10 +95,6 @@ Using the hourly air pollution raw data, the ordinary kriging was applied for pr
 Using the daily weather raw data, the nearest weather monitoring station data to the centroid was assigned to each Si-Gun-Gu. If the data is missing in the nearest station, the next closest monitoring data was selected. The yearly variables defined in the table above were calculated from those daily variables. Ulleung-Gun adopted its own station data only. 
 
 일별 날씨 원자료를 이용하여, 각 시군구의 중심점 (centroid)에서 가장 가까운 측정소의 값을 사용하였습니다. 가장 가까운 측정값이 없는 경우에는 그 다음 가까운 측정소의 값을 사용하였습니다. 위 표에 정의된 연별 자료는 일별 자료를 이용하여 정의에 따라 계산되었습니다. 울릉군은 해당 지역의 측정소 자료 사용하였습니다.
-
-## Old Versions
-
-V.1.0.0 (released Feb. 23.2020): 2001 - 2018 is available upon requets.
 
 ## Warning and Note
 
